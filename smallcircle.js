@@ -4,6 +4,7 @@
 // @category       Tweaks
 // @version        0.1.0.20160624
 // @namespace      https://github.com/jonatkins/ingress-intel-total-conversion
+// @downloadURL    https://argrath.github.io/iitc-plugins/smallcircle.js
 // @description    Render markers smaller
 // @include        https://www.ingress.com/intel*
 // @include        http://www.ingress.com/intel*

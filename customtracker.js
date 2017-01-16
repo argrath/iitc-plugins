@@ -4,6 +4,7 @@
 // @category       Tweaks
 // @version        0.20160625
 // @namespace      https://github.com/jonatkins/ingress-intel-total-conversion
+// @downloadURL    https://argrath.github.io/iitc-plugins/customtracker.js
 // @description    Customize Tracker plugin
 // @include        https://www.ingress.com/intel*
 // @include        http://www.ingress.com/intel*
