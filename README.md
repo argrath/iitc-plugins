@@ -4,3 +4,4 @@
  * [portal-buttons.js](portal-buttons.js)
  * [smallcircle.js](smallcircle.js)
  * [differentialscore.js](differentialscore.js)
+ * [dronecircle.js](dronecircle.js)
