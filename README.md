@@ -5,3 +5,4 @@
  * [smallcircle.js](smallcircle.js)
  * [differentialscore.js](differentialscore.js)
  * [dronecircle.js](dronecircle.js)
+ * [highlight-unvisited.js](highlight-unvisited.js)
