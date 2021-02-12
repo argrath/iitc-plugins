@@ -2,7 +2,7 @@
 // @id             highlight-unvisited
 // @name           IITC Plugin: highlight unvisited
 // @category       Highlighter
-// @version        0.20210208
+// @version        0.20210212
 // @namespace      https://github.com/IITC-CE/ingress-intel-total-conversion
 // @updateURL      https://argrath.github.io/iitc-plugins/highlight-unvisited.js
 // @downloadURL    https://argrath.github.io/iitc-plugins/highlight-unvisited.js
@@ -44,10 +44,7 @@ function wrapper(plugin_info) {
     };
 
     plugin.highlighter = function (data, style) {
-        let visited = data.portal.options.data.history;
-        if (visited === undefined) {
-            visited = data.portal.options.ent[2][18];
-        }
+        let visited = data.portal.options.ent[2][18];
 
         if (visited === undefined) {
             return;
