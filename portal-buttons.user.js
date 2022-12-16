@@ -2,19 +2,13 @@
 // @id             iitc-plugin-portal-buttons
 // @name           IITC plugin: Portal Buttons
 // @category       Layer
-// @version        0.20181123
-// @namespace      https://github.com/jonatkins/ingress-intel-total-conversion
-// @updateURL      https://argrath.github.io/iitc-plugins/portal-buttons.js
-// @downloadURL    https://argrath.github.io/iitc-plugins/portal-buttons.js
+// @version        0.20221217
+// @namespace      https://github.com/IITC-CE/ingress-intel-total-conversion
+// @updateURL      https://argrath.github.io/iitc-plugins/portal-buttons.user.js
+// @downloadURL    https://argrath.github.io/iitc-plugins/portal-buttons.user.js
 // @description    Adds some buttons to show/hide portals on the map
-// @include        https://*.ingress.com/intel*
-// @include        http://*.ingress.com/intel*
-// @match          https://*.ingress.com/intel*
-// @match          http://*.ingress.com/intel*
-// @include        https://*.ingress.com/mission/*
-// @include        http://*.ingress.com/mission/*
-// @match          https://*.ingress.com/mission/*
-// @match          http://*.ingress.com/mission/*
+// @match          https://intel.ingress.com/*
+// @match          https://intel-x.ingress.com/*
 // @grant          none
 // ==/UserScript==
 

@@ -2,19 +2,13 @@
 // @id             iitc-plugin-differential-score
 // @name           IITC plugin: Differential Score
 // @category       Tweaks
-// @version        0.20190607
-// @namespace      https://github.com/jonatkins/ingress-intel-total-conversion
-// @updateURL      https://argrath.github.io/iitc-plugins/differentialscore.js
-// @downloadURL    https://argrath.github.io/iitc-plugins/differentialscore.js
+// @version        0.20221217
+// @namespace      https://github.com/IITC-CE/ingress-intel-total-conversion
+// @updateURL      https://argrath.github.io/iitc-plugins/differentialscore.user.js
+// @downloadURL    https://argrath.github.io/iitc-plugins/differentialscore.user.js
 // @description    Differential Region Score
-// @include        https://*.ingress.com/intel*
-// @include        http://*.ingress.com/intel*
-// @match          https://*.ingress.com/intel*
-// @match          http://*.ingress.com/intel*
-// @include        https://*.ingress.com/mission/*
-// @include        http://*.ingress.com/mission/*
-// @match          https://*.ingress.com/mission/*
-// @match          http://*.ingress.com/mission/*
+// @match          https://intel.ingress.com/*
+// @match          https://intel-x.ingress.com/*
 // @grant          none
 // ==/UserScript==
 

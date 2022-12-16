@@ -2,19 +2,13 @@
 // @id             iitc-plugin-custom-tracker
 // @name           IITC plugin: Custom Tracker
 // @category       Tweaks
-// @version        0.20181123
-// @namespace      https://github.com/jonatkins/ingress-intel-total-conversion
-// @updateURL      https://argrath.github.io/iitc-plugins/customtracker.js
-// @downloadURL    https://argrath.github.io/iitc-plugins/customtracker.js
+// @version        0.20221217
+// @namespace      https://github.com/IITC-CE/ingress-intel-total-conversion
+// @updateURL      https://argrath.github.io/iitc-plugins/customtracker.user.js
+// @downloadURL    https://argrath.github.io/iitc-plugins/customtracker.user.js
 // @description    Customize Tracker plugin
-// @include        https://*.ingress.com/intel*
-// @include        http://*.ingress.com/intel*
-// @match          https://*.ingress.com/intel*
-// @match          http://*.ingress.com/intel*
-// @include        https://*.ingress.com/mission/*
-// @include        http://*.ingress.com/mission/*
-// @match          https://*.ingress.com/mission/*
-// @match          http://*.ingress.com/mission/*
+// @match          https://intel.ingress.com/*
+// @match          https://intel-x.ingress.com/*
 // @grant          none
 // ==/UserScript==
 

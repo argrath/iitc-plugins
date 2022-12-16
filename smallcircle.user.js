@@ -2,19 +2,13 @@
 // @id             iitc-plugin-small-circle
 // @name           IITC plugin: Small Circle
 // @category       Tweaks
-// @version        0.20181123
-// @namespace      https://github.com/jonatkins/ingress-intel-total-conversion
-// @updateURL      https://argrath.github.io/iitc-plugins/smallcircle.js
-// @downloadURL    https://argrath.github.io/iitc-plugins/smallcircle.js
+// @version        0.20221217
+// @namespace      https://github.com/IITC-CE/ingress-intel-total-conversion
+// @updateURL      https://argrath.github.io/iitc-plugins/smallcircle.user.js
+// @downloadURL    https://argrath.github.io/iitc-plugins/smallcircle.user.js
 // @description    Render markers smaller
-// @include        https://*.ingress.com/intel*
-// @include        http://*.ingress.com/intel*
-// @match          https://*.ingress.com/intel*
-// @match          http://*.ingress.com/intel*
-// @include        https://*.ingress.com/mission/*
-// @include        http://*.ingress.com/mission/*
-// @match          https://*.ingress.com/mission/*
-// @match          http://*.ingress.com/mission/*
+// @match          https://intel.ingress.com/*
+// @match          https://intel-x.ingress.com/*
 // @grant          none
 // ==/UserScript==
 
